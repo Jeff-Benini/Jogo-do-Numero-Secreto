@@ -8,7 +8,7 @@
 </p>
 <br>
 <h2 id="sobre">Sobre</h2>
-<h3>Esse foi um projeto no curso Desenvolvedor Full Stack do <a href="https://www.devclub.com.br/](https://www.alura.com.br/?srsltid=AfmBOoo8ZUBREMeOFG9WX7ZOKHIGQQZ4LVW3x4EEKIBou__5UmdGMzXS)">Alura</a> com foco em JavaScript visando criar um jogo que gera um número aleatório de um a mil e contabiliza os chutes até que o usuário acerte.</h3>
+<h3>Esse foi um projeto no curso Desenvolvedor Full Stack do <a href="https://www.alura.com.br/?srsltid=AfmBOor1mqDhykE80tvEiv_Lxa5sRX4CI930GRoICmlKbQmw4kmb1DA3">Alura</a> com foco em JavaScript visando criar um jogo que gera um número aleatório de um a mil e contabiliza os chutes até que o usuário acerte.</h3>
 <br>
 <h2 id="tecnologias">Tecnologias Utilizadas</h2>
 <ul>
