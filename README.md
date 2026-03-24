@@ -11,11 +11,13 @@
 <h3>Este projeto foi desenvolvido com base no que aprendi no curso Lógica de Programação em JavaScript no <a href="https://www.alura.com.br/?srsltid=AfmBOor1mqDhykE80tvEiv_Lxa5sRX4CI930GRoICmlKbQmw4kmb1DA3">Alura</a> com foco em JavaScript visando criar um jogo que gera um número aleatório de um a mil e contabiliza os chutes até que o usuário acerte.</h3>
 <br>
 <h2 id="tecnologias">Tecnologias Utilizadas</h2>
+<h2>
 <ul>
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+</h2>
 <br>
 <h2 id="mockup">Mockup</h2>
 <img src="https://github.com/Jeff-Benini/Jogo-do-Numero-Secreto/blob/main/img/Mockup.png?raw=true"/>
